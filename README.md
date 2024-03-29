@@ -12,11 +12,12 @@ I enjoy coding and building web pages. CSS is my favourite language.
 
 
 
+
 ### Hi there 👋, Marley
 #### Design and Development
 I am on the way up..
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
@@ -24,19 +25,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 
-
-
-<!--
-**Marley1987/Marley1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
