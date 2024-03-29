@@ -7,7 +7,7 @@
 
 
 
-### Hi there 👋, Marley
+# Hi there 👋, Marley
 
 
 I'm Marley. Learning and working towards becoming a top developer.
