@@ -7,19 +7,17 @@
 
 
 
-# Hi there 👋, Marley
+# Hi there 👋
 
 
 I'm Marley. Learning and working towards becoming a top developer.
-I enjoy coding and building web pages. CSS is my favourite language.
+I enjoy coding and building web pages. CSS is my favourite framework 😍😍
 
 
 #### Design and Development
 I am on the way up..
 
 Skills: REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
 
 This is my First Page👋
 
